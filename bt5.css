@@ -1,0 +1,17 @@
+.container {
+    width: 700px;
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container .heading {
+    color: #0056b3;
+}
+
+.container .code-box {
+    background: #fff8dc;
+    padding: 8px;
+    border-left: 5px solid #ffc107;
+    margin-top: 15px;
+}
+
